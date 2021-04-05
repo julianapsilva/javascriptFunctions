@@ -18,3 +18,5 @@ function aumentoSalario(plano, salario)
 
 console.log(aumentoSalario('A', 1000))
 console.log(aumentoSalario('C', 5000))
+
+console.log(aumentoSalario('C', 500))
